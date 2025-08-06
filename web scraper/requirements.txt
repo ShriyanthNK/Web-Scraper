@@ -1,0 +1,8 @@
+python-dotenv
+serpapi
+beautifulsoup4
+requests
+langchain
+langchain-ollama
+langchain-community
+langchain-core
